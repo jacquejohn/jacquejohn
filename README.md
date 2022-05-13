@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacquejohn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and html
+- 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me jenellejohnson08@gmail.com
 
